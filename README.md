@@ -1,51 +1,32 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Humanos Ainda São Necessários?
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este eBook foi criado como parte do desafio **Lab “Natty or Not”** da DIO.me. Ele explora o impacto das IAs generativas na criação de conteúdo, questionando até que ponto conseguimos distinguir o que é feito por humanos... e o que não é. O conteúdo foi produzido com o apoio de diversas ferramentas de IA, mas com curadoria e intenção humana em cada etapa.  
+
+> A provocação central é: **será que humanos ainda são necessários?**
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **ChatGPT (OpenAI):** Redação e estruturação textual
+- **Microsoft Designer (Copilot):** Geração da imagem de capa
+- **Canva (versão gratuita):** Diagramação e design visual
+- **Obsidian:** Organização de ideias e acompanhamento do progresso
+- **Perplexity.ai:** Pesquisa com fontes reais para seções estratégicas do conteúdo
+- **GPTZero:** Validação da naturalidade dos textos gerados por IA
+- **Leonardo.ai** *(explorado)*: Teste de geração de imagens com IA (não utilizado na versão final)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo partiu da construção de uma estrutura clara para o eBook, que permitisse explorar o tema de forma aprofundada e envolvente. Cada seção foi criada com o auxílio de IA, mas sempre com edição, adaptação e revisão humana.  
+As informações foram enriquecidas com dados reais coletados via Perplexity.ai e validadas com ferramentas como GPTZero. Todo o projeto foi gerido no Obsidian, com organização em markdown e checklist interativo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Um eBook com **25 páginas**, explorando o tema das IAs generativas de forma acessível, provocativa e atual.
+- Uso transparente e estratégico de diversas ferramentas de IA, cumprindo o propósito do desafio.
+- Conteúdo validado como **natural e humanizado** por ferramentas de detecção de IA.
+- Uma entrega estética, funcional e com propósito educacional, disponível em PDF e pronta para ser compartilhada.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão
+Criar algo com IA que pareça "natty" — natural — não é apenas possível, é instigante.  
+Esse projeto mostrou que a linha entre humano e máquina está ficando cada vez mais fina.  
+Mas, ao mesmo tempo, revelou que ainda são os humanos que fazem as **perguntas certas**, escolhem os caminhos, moldam a narrativa.  
+Talvez o grande diferencial hoje seja saber **usar bem a IA, sem perder o toque humano**.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
