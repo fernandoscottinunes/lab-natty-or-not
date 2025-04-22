@@ -1,32 +1,39 @@
-# Humanos Ainda São Necessários?
+# Humanos Ainda São Necessários? 🤖📘
 
 ## 📒 Descrição
-Este eBook foi criado como parte do desafio **Lab “Natty or Not”** da DIO.me. Ele explora o impacto das IAs generativas na criação de conteúdo, questionando até que ponto conseguimos distinguir o que é feito por humanos... e o que não é. O conteúdo foi produzido com o apoio de diversas ferramentas de IA, mas com curadoria e intenção humana em cada etapa.  
+Este eBook mergulha no universo das **IAs generativas**, explorando seu impacto na criação de conteúdo, nos empregos, na ética e no nosso futuro. Criado como parte do desafio **“Lab Natty or Not”** da DIO.me, ele levanta uma pergunta provocativa:  
+**será que ainda conseguimos distinguir o que é feito por humanos e o que vem das máquinas?**
 
-> A provocação central é: **será que humanos ainda são necessários?**
+Com **51 páginas**, linguagem acessível e um visual minimalista, o conteúdo foi construído com a ajuda de IA — mas com muita intencionalidade humana.
 
 ## 🤖 Tecnologias Utilizadas
-- **ChatGPT (OpenAI):** Redação e estruturação textual
-- **Microsoft Designer (Copilot):** Geração da imagem de capa
-- **Canva (versão gratuita):** Diagramação e design visual
-- **Obsidian:** Organização de ideias e acompanhamento do progresso
-- **Perplexity.ai:** Pesquisa com fontes reais para seções estratégicas do conteúdo
-- **GPTZero:** Validação da naturalidade dos textos gerados por IA
-- **Leonardo.ai** *(explorado)*: Teste de geração de imagens com IA (não utilizado na versão final)
+- **[ChatGPT](https://chat.openai.com)** – Redação e estruturação textual  
+- **[Perplexity.ai](https://www.perplexity.ai)** – Pesquisa com fontes reais e confiáveis  
+- **[GPTZero](https://gptzero.me)** – Validação da naturalidade dos textos  
+- **[Microsoft Designer](https://designer.microsoft.com)** – Geração da imagem de capa  
+- **[Canva](https://www.canva.com)** – Diagramação, design e aplicação visual  
+- **[Obsidian](https://obsidian.md)** – Organização do projeto e checklist  
+- **[Leonardo.ai](https://leonardo.ai)** – Explorado para geração de imagem (não utilizado na versão final)
 
 ## 🧐 Processo de Criação
-O processo partiu da construção de uma estrutura clara para o eBook, que permitisse explorar o tema de forma aprofundada e envolvente. Cada seção foi criada com o auxílio de IA, mas sempre com edição, adaptação e revisão humana.  
-As informações foram enriquecidas com dados reais coletados via Perplexity.ai e validadas com ferramentas como GPTZero. Todo o projeto foi gerido no Obsidian, com organização em markdown e checklist interativo.
+A estrutura do eBook foi planejada previamente, com o apoio do Obsidian como sistema de anotações e checklist.  
+Em seguida, o conteúdo textual foi desenvolvido com auxílio do ChatGPT, revisado manualmente e validado com o GPTZero para garantir tom natural.  
+As pesquisas foram realizadas com o Perplexity.ai, enriquecendo o texto com dados reais e casos concretos.  
+A capa foi criada com o Microsoft Designer e todo o design gráfico final foi produzido no Canva, utilizando um layout limpo e tipografia consistente.
 
 ## 🚀 Resultados
-- Um eBook com **25 páginas**, explorando o tema das IAs generativas de forma acessível, provocativa e atual.
-- Uso transparente e estratégico de diversas ferramentas de IA, cumprindo o propósito do desafio.
-- Conteúdo validado como **natural e humanizado** por ferramentas de detecção de IA.
-- Uma entrega estética, funcional e com propósito educacional, disponível em PDF e pronta para ser compartilhada.
+O resultado é um eBook:
+- Com **51 páginas** de conteúdo original, provocativo e educativo;  
+- Redigido com IA, mas com curadoria humana em cada etapa;  
+- Visualmente claro, organizado e acessível;  
+- Que responde diretamente ao desafio “Natty or Not” com profundidade e criatividade.
+
+📄 **[Clique aqui para acessar o eBook (PDF)](./Ebook%20-%20Humanos%20Ainda%20S%C3%A3o%20Necess%C3%A1rios.pdf)**
 
 ## 💭 Reflexão
-Criar algo com IA que pareça "natty" — natural — não é apenas possível, é instigante.  
-Esse projeto mostrou que a linha entre humano e máquina está ficando cada vez mais fina.  
-Mas, ao mesmo tempo, revelou que ainda são os humanos que fazem as **perguntas certas**, escolhem os caminhos, moldam a narrativa.  
-Talvez o grande diferencial hoje seja saber **usar bem a IA, sem perder o toque humano**.
+Criar este eBook foi uma experiência profunda e reveladora. Usar a IA como aliada — e não substituta — permitiu acelerar o processo criativo, sem abrir mão da intencionalidade humana.  
+O verdadeiro desafio não foi apenas “enganar” o leitor, mas mostrar que **a colaboração entre humanos e máquinas pode gerar algo belo, útil e autêntico**.
 
+E aí… você diria que este conteúdo é natural?
+
+#LabDIONattyOrNot
